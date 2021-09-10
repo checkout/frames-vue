@@ -3,7 +3,7 @@ name: Tests and Deployment
 on:
     push:
         branches:
-            - master
+            - main
 
 jobs:
     publish-npm:
